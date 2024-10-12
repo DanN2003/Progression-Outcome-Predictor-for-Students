@@ -1,7 +1,3 @@
-# I declare that my work contains no examples of misconduct, such as plagiarism, or collusion.
-# Any code taken from other sources is referenced within my code solution.
-# Student ID: w1991158
-# Date: 21/11/2023
 
 import os
 from graphics import GraphWin, Rectangle, Text, Point
